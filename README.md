@@ -65,6 +65,7 @@ It is designed to help Uber stakeholders make data-driven decisions by visualizi
 1. Clone this repository:
 ```bash
 git clone https://github.com/Dhwani-02/uber-trip-analysis/
+```
 
 Contact For any inquiries, reach out via GitHub Issues or email. dhwanizala25@gmail.com
 
